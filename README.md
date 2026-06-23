@@ -1,4 +1,4 @@
-#  Luis Rosales | Software Engineer
+#  Luis Rosales | Systems Engineer
 
 > Construyo sistemas escalables y equipos de alto rendimiento. Especializado en arquitecturas backend robustas y optimización de performance que impactan directamente en el negocio.
 
